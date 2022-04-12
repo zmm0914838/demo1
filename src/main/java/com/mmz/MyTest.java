@@ -6,5 +6,6 @@ public class MyTest {
     @Test
     public void add(){
         System.out.println(123);
+        System.out.println(456);
     }
 }
